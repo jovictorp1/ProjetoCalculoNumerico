@@ -4,6 +4,8 @@ Autores:  João Victor Pacheco
           Andrew da Silva
           Leonardo Vitor de Freitas
           Leonardo Sartori
+          
+Projeto Disponível em: https://github.com/jovictorp1/ProjetoCalculoNumerico/
 
 Descrição: O objetivo desse projeto é analisar a relação entre a Acidez Relativa e o pH para amostras coletadas de vinho Tinto.
 Os dados foram obtidos através da base de dados winequality-red presente no "UCI Machine Learning Repository", onde encontramos
