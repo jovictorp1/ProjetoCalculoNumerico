@@ -23,7 +23,7 @@ da Interpolação Polinomial.
 Para o funcionamento correto do código, no mesmo diretório devem estar o programa .R e o arquivo winequality-red.csv, pois o
 programa .R busca dados do arquivo csv para fazer a análise.
 
-para compilar via terminal é recomendado seguir os seguintes passos:
+para compilar via terminal no Ubuntu é recomendado seguir os seguintes passos:
 1.  Abrir o Terminal
 2.  Entrar no diretório do projeto
 3.  Abrir a plataforma R, utilizando o comando "~$ R"
